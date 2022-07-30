@@ -1,5 +1,6 @@
 body {
     font-family: "Roboto", sans-serif;
+    
 }
 
 
@@ -7,6 +8,7 @@ body {
     background-color: #1f2937;
     color:#f9faf8;
     font-size: 24px;
+    padding: 20px;
     display: flex;
     justify-content: space-between;
     align-items: baseline; 
@@ -26,6 +28,30 @@ ul {
 }
 
 .herosub, ul {
-    color: #e5e7b;
+    color: #e5e7eb;
+    background-color: #1f2937;
     font-size: 18px;
 }
+
+.button1 {
+    background: royalblue;
+    border: 1px solid royalblue;
+    color: white;
+    text-align: center;
+    padding: 8px 16px;
+    border-radius: 8px;
+    width: 80px;
+}
+
+.cont1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.no1 {
+    padding: 20px;
+    background-color: #1f2937;
+    display: flex;
+}
+
