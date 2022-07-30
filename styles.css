@@ -1,0 +1,31 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+
+.header {
+    background-color: #1f2937;
+    color:#f9faf8;
+    font-size: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline; 
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 10px;
+}
+
+.heromain {
+    color: #f9faf8;
+    background-color: #1f2937;
+    font-size: 48px;
+    font-weight:800;
+}
+
+.herosub, ul {
+    color: #e5e7b;
+    font-size: 18px;
+}
