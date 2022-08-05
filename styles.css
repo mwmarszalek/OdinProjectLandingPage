@@ -1,6 +1,7 @@
 body {
     font-family: "Roboto", sans-serif;
-    margin: auto;
+    
+    
 
    
 }
@@ -16,7 +17,8 @@ body {
 
 
 .header {
-    
+
+    background-color: 
     display: flex;
     justify-content: space-between;
     align-items: center;
