@@ -1,9 +1,8 @@
 body {
     font-family: "Roboto", sans-serif;
-    
+    margin:auto;
     
 
-   
 }
 
 /* BEGIN SECTION 1 (+HEADER)*/
@@ -18,7 +17,7 @@ body {
 
 .header {
 
-    background-color: 
+    
     display: flex;
     justify-content: space-between;
     align-items: center;
