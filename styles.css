@@ -1,9 +1,7 @@
 body {
     font-family: "Roboto", sans-serif;
     margin: auto;
-    
-    
-    
+
    
 }
 
@@ -32,7 +30,7 @@ ul {
     gap: 15px;
     margin:0;
     color: #e5e7eb;
-    font-size: 18px;
+    font-size: 15px;
     
 }
 
@@ -52,13 +50,14 @@ ul {
     width: 450px;
 }
 
-button {
+button1 {
     padding: 8px 16px;
     border-radius: 8px;
     background: #3882f6;
     border: 1px solid #3882f6;
     color: white;
     width: 100px;
+    text-align: center;
     
 }
 
@@ -104,6 +103,11 @@ button {
     width: 200px;
 }
 
+
+img {
+    border-radius: 15px;
+}
+
 /* END SECTION 2*/
 
 /* BEGIN SECTION 3*/
@@ -126,4 +130,64 @@ button {
     margin-top: 10px;
     font-weight: bold;
     text-align: right;
+}
+
+/* END SECTION 3*/
+
+/* BEGIN SECTION 4*/
+
+
+.container4 {
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #3882f6;
+    margin: 75px 125px 75px 125px;
+    padding: 20px 100px 20px 100px;
+    
+
+}
+
+.callsignup {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap:5px;
+    
+}
+
+.call {
+    margin-bottom:0;
+    
+}
+
+.signup {
+    margin-top: 0;
+}
+
+
+button2 {
+    padding: 8px 16px;
+    border-radius: 8px;
+    background: #3882f6;
+    border: 2px solid white;
+    color: white;
+    width: 100px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: -1;
+}
+
+/* END SECTION 4*/
+
+.footer {
+    background-color: #1f2937;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
 }
