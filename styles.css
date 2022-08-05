@@ -1,6 +1,7 @@
-body {
+html, body {
     font-family: "Roboto", sans-serif;
     margin:auto;
+    height: 100%;
     
 
 }
