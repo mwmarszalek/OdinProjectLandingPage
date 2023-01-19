@@ -79,6 +79,7 @@ button1 {
     display: flex;
     justify-content: space-between;
     align-items: center;
+   
 }
 
 
@@ -88,6 +89,7 @@ button1 {
 /* BEGIN SECTION 2*/
 
 .title_section2 {
+  
     font-size: 36px;
     font-weight: bold;
     text-align: center;
@@ -98,6 +100,7 @@ button1 {
     justify-content: center;
     gap: 30px;
     padding-bottom: 50px;
+
 }
 
 .info {
@@ -108,6 +111,7 @@ button1 {
 
 img {
     border-radius: 15px;
+    margin-left: 150px;
 }
 
 /* END SECTION 2*/
